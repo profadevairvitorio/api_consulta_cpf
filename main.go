@@ -1,11 +1,10 @@
 package main
 
 import (
+	"cpf-lookup/api"
+	"cpf-lookup/domain/service"
 	"fmt"
 	"net/http"
-
-	"github.com/profadevairvitorio/cpf-lookup/internal/domain/service"
-	"github.com/profadevairvitorio/cpf-lookup/pkg/api"
 )
 
 func main() {

@@ -3,8 +3,8 @@
 package api
 
 import (
+	"cpf-lookup/domain/service"
 	"encoding/json"
-	"github.com/profadevairvitorio/cpf-lookup/internal/domain/service"
 	"net/http"
 )
 

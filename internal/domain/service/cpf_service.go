@@ -2,9 +2,7 @@
 
 package service
 
-import (
-	"github.com/profadevairvitorio/cpf-lookup/internal/domain/model"
-)
+import "cpf-lookup/internal/domain/model"
 
 type CPFService struct{}
 
